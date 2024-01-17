@@ -10,7 +10,7 @@ namespace UserPanelProject.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "View Page";
 
             return View();
         }
